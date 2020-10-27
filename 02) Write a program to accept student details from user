@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+printf("\n===============xoxoxoxoxoxo===============\n\n");
+int Rollno;
+char Name,city,course;
+printf("Enter your name    : ");
+scanf("%s",&Name);
+printf("Enter your Roll no : ");
+scanf("%d",&Rollno);
+printf("Enter your course  : ");
+scanf("%s",&course);
+printf("Enter your city    : ");
+scanf("%s",&city);
+printf("\n\n OK DONE IT....");
+printf("\n\n===============xoxoxoxoxoxo===============\n");
+getch();
+return 0;
+
+}
