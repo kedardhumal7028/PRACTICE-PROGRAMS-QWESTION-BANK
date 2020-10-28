@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    for(int i=1;i<=127;i++)
+
+    printf("\n\t%d   =   %c \n",i, i);
+
+    getchar();
+    return 0;
+}
